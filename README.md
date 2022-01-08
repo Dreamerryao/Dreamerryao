@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Dreamerryao](https://github-readme-stats.vercel.app/api?username=dreamerryao&count_private=true)](http://dreamerryao.wiki)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamerryao&" alt="dreamerryao" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamerryao&" alt="dreamerryao" /></p> -->
 
 ![nothing](https://visitor-badge.laobi.icu/badge?page_id=dreamerryao)
 
