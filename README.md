@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on undefined
+- 🔭 I’m currently working on @hyperchain
+- 🌱 I’m currently learning Golang.
 
 博客: https://blog.dreamerryao.wiki
-
-说说: https://blog.dreamerryao.wiki/journals
 
 [![Dreamerryao](https://github-readme-stats.vercel.app/api?username=dreamerryao&count_private=true)](http://dreamerryao.wiki)
 
