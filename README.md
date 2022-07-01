@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on @hyperchain
 - 🌱 I’m currently learning Golang.
+- 💗 I'd like to be a good Web Engineer.
 
-博客: https://blog.dreamerryao.wiki
+Website: https://dreamerryao.wiki
+
+Blog: https://blog.dreamerryao.wiki
 
 [![Dreamerryao](https://github-readme-stats.vercel.app/api?username=dreamerryao&count_private=true)](http://dreamerryao.wiki)
 
