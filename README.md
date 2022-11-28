@@ -24,7 +24,9 @@ Website: https://dreamerryao.wiki
 
 Blog: https://blog.dreamerryao.wiki
 
-[![Dreamerryao](https://github-readme-stats.vercel.app/api?username=dreamerryao&count_private=true)](http://dreamerryao.wiki)
+Daily Life: https://daily.dreamerryao.wiki
+
+[![Dreamerryao](https://github-readme-stats.vercel.app/api?username=dreamerryao&count_private=true)](http://daily.dreamerryao.wiki)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamerryao&" alt="dreamerryao" /></p> -->
 
