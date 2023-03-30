@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Golang & Rust.
 - 💗 I'd like to be a good Web Engineer.
 
-Website: https://dreamerryao.wiki
+我的网站: https://dreamerryao.wiki
 
-Blog: https://blog.dreamerryao.wiki
+<!-- Blog: https://blog.dreamerryao.wiki  -->
 
-Daily Life: https://daily.dreamerryao.wiki
+📷: [小红书](https://www.xiaohongshu.com/user/profile/5cb702ac0000000012012018)
 
-[![Dreamerryao](https://github-readme-stats.vercel.app/api?username=dreamerryao&count_private=true)](http://daily.dreamerryao.wiki)
+Daily Life: [小红书](https://www.xiaohongshu.com/user/profile/5f2281190000000001001809)
+
+[![Dreamerryao](https://github-readme-stats.vercel.app/api?username=dreamerryao&count_private=true)](https://dreamerryao.wiki)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamerryao&" alt="dreamerryao" /></p> -->
 
