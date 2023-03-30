@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <!-- Blog: https://blog.dreamerryao.wiki  -->
 
-📷: [小红书](https://www.xiaohongshu.com/user/profile/5cb702ac0000000012012018)
+[📷](https://www.xiaohongshu.com/user/profile/5cb702ac0000000012012018)
 
-Daily Life: [小红书](https://www.xiaohongshu.com/user/profile/5f2281190000000001001809)
+[Daily](https://www.xiaohongshu.com/user/profile/5f2281190000000001001809)
 
 [![Dreamerryao](https://github-readme-stats.vercel.app/api?username=dreamerryao&count_private=true)](https://dreamerryao.wiki)
 
