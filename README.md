@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on @hyperchain and previously worked as an intern @Molardata and @Bytedance.
+- 🔭 I’m currently working on web3 and previously worked as an intern @Molardata, @Bytedance and @hyperchain.
 - 🌱 I’m currently learning Golang & Rust.
 - 💗 I'd like to be a good Web Engineer.
 
