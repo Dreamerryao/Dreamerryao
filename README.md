@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I'm Dreamerryao, a front-end enthusiast.</p>
+<p>💗 I'd like to be a good Web Engineer.</p>
 
 <!--
 **Dreamerryao/Dreamerryao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on web3 and previously worked as an intern @Molardata, @Bytedance and @hyperchain.
-- 🌱 I’m currently learning Golang & Rust.
-- 💗 I'd like to be a good Web Engineer.
+![toy1](https://github-profile-trophy.vercel.app/?username=Dreamerryao)
 
 ![nothing](https://visitor-badge.laobi.icu/badge?page_id=dreamerryao)
 
