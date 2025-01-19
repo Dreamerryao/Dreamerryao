@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![toy1](https://github-profile-trophy.vercel.app/?username=Dreamerryao)
+
 
 ![nothing](https://visitor-badge.laobi.icu/badge?page_id=dreamerryao)
 
