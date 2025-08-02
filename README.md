@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>💗 I'd like to be a good Web Engineer.</p>
+<p>💗 I'm a web3 gambler. </p>
 
 <!--
 **Dreamerryao/Dreamerryao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
